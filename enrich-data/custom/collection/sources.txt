@@ -1,0 +1,10 @@
+Poverty Rate : https://worldpopulationreview.com/country-rankings/poverty-rate-by-country
+Age : https://worldpopulationreview.com/country-rankings/median-age
+Arrivals : https://data.worldbank.org/indicator/ST.INT.ARVL
+Departures : https://data.worldbank.org/indicator/ST.INT.DPRT
+HDI : https://worldpopulationreview.com/country-rankings/hdi-by-country
+GDP per capita : https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+Population : https://worldpopulationreview.com/
+Covid (Live at 16/12/2021 5:30AM) : https://www.worldometers.info/coronavirus/
+
+NOTE : Missing parts were partly filled by hand using results from google searches

@@ -1,11 +1,11 @@
 # covid-and-economy
 Data analysis project aiming to evaluate the correlation between HDI, GDP per capita and covid mortality rates.
 
-The following work was assigned to us as the term project for CSE0448 Big Data Analytics at IKU for the 2021-2022 Fall semester.
+  The following work was assigned to us as the term project for CSE0448 Big Data Analytics at IKU for the 2021-2022 Fall semester.
 The topic of the project was, as written in the project description:
   - The Impact of Covid-19 Pandemic on the Global Economy: Emphasis on Poverty Alleviation and Economic Growth
 
-The project, in accordance with the project description seeks to evaluate the correlations between human development index (HDI), GDP of a given country and the poverty rate with the mortality rate of Covid-19 in the given country.
+  The project, in accordance with the project description seeks to evaluate the correlations between human development index (HDI), GDP of a given country and the poverty rate with the mortality rate of Covid-19 in the given country.
 Throughout this project, the aim is to:
 - Evaluate the correlations of Covid-19 mortality rate with economic factors
 - Evaluate the correlations of Covid-19 mortality rate with HDI

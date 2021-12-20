@@ -1,4 +1,4 @@
-# covid-and-economy
+# Covid-19 and Economic Status of the Globe - A STUDY ON COVID 19 AND ITS CORRELATIONS WITH GDP, HDI AND POVERTY RATE ACROSS COUNTRIES
 Data analysis project aiming to evaluate the correlation between HDI, GDP per capita and covid mortality rates.
 
 The following work was assigned to us as the term project for CSE0448 Big Data Analytics at IKU for the 2021-2022 Fall semester.

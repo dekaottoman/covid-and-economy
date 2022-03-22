@@ -13,3 +13,5 @@ Throughout this project, the aim is to:
 - Extract information from the data at hand
 - Visualize the extracted information
 - Build a categorical prediction model using machine learning
+
+P.S.: I got 89.75 from the project. My partners got 60.75 .
